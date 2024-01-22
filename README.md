@@ -1,3 +1,8 @@
+# Attention
+This is a frontend page for contracts deployed on Sepolia test-network. Thus, anyone shall select his/her Sepolia wallet from Metamask.
+Change the contract addresses in eBloc.js with your contract addresses and use your own abi and functions.
+If you wish to connect other test networks, change your Metamask wallet to other networks and again update the contract info as stated above.
+
 # Starting Project
 
 ```shell
