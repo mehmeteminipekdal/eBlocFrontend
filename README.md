@@ -13,6 +13,10 @@ ipfs daemon
 ipfs add -r ./source_code  // ipfs add -r .                        
 ipfs ls QmX7c5QNeWUkmjsEw18sJ7hHCJibGnSDxDfKhajCT2iPxZ
 ```
+Other related commands
+```shell
+ipfs cat QmX2U3gBqmUNSceWb6HiYrjc9d2raF5iPMY5p38yHot6Dk
+```
 
 # Sample Hardhat Project
 
