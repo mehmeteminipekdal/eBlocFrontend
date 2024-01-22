@@ -5,7 +5,10 @@ npm install --save-dev ethers
 sudo chown -R mehmeteminipekdal:staff . -if there is an access/permission error-
 npm start
 ```
-
+If a port is stuck
+```shell
+sudo lsof -i :3000     
+```
 # Installing IPFS
 ```shell
 brew install ipfs
