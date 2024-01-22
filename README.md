@@ -8,9 +8,9 @@ npm start
 # Installing IPFS
 ```shell
 brew install ipfs
+ipfs daemon
 ipfs add -r ./source_code  // ipfs add -r .                        
 ipfs ls QmX7c5QNeWUkmjsEw18sJ7hHCJibGnSDxDfKhajCT2iPxZ
-ipfs daemon
 ```
 
 # Sample Hardhat Project
