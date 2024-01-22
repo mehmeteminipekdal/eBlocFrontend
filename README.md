@@ -2,6 +2,7 @@
 
 ```shell
 npm install --save-dev ethers
+sudo chown -R mehmeteminipekdal:staff . -if there is an access/permission error-
 npm start
 ```
 
